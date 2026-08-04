@@ -64,29 +64,18 @@ Website: http://192.168.4.1
 
 ## Project Media
 
-### Simulation Screenshots
+### circuit
 
-```markdown
-![Wokwi Simulation](images/wokwi-simulation.png)
+<img width="1600" height="900" alt="WhatsApp Image 2026-08-04 at 5 33 17 AM" src="https://github.com/user-attachments/assets/3e289af2-cdf4-454d-8da8-c0dcf82bb92c" />
 
-![Simulation Website](images/simulation-website.png)
-```
 
-### Real-Life Screenshots
 
-```markdown
-![Real Circuit](images/real-circuit.jpg)
+### Video
 
-![Real Website](images/real-website.png)
-```
 
-### Videos
+https://github.com/user-attachments/assets/e9e15f2c-d26f-4ffa-aea3-6cf30720d5ca
 
-```markdown
-[Watch the Simulation Video](YOUR_SIMULATION_VIDEO_LINK)
 
-[Watch the Real-Life Demonstration](YOUR_REAL_VIDEO_LINK)
-```
 
 ## Important Notes
 
